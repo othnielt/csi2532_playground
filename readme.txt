@@ -1,1 +1,1 @@
-Othniel Tiendrebeogo , groupe 2 
+Othniel Tiendrebeogo , groupe 2.
