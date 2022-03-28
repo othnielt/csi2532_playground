@@ -44,7 +44,7 @@ CREATE ASSERTION smallClub CHECK
   CONSTRAINT sum_rating DEFAULT (0)
 
   --ii
--- let fucn cal_sum () return the total of all rate of one author
+-- let func cal_sum () return the total of all rate of one author
 
 CREATE  TRIGGER  total_rate 
 AFTER  UPDATE OF rating ON BOOK
